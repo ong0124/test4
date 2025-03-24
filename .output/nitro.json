@@ -1,5 +1,5 @@
 {
-  "date": "2025-03-24T09:18:56.668Z",
+  "date": "2025-03-24T11:25:36.780Z",
   "preset": "cloudflare-worker",
   "framework": {
     "name": "nuxt",
